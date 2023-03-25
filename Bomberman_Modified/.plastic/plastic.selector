@@ -1,0 +1,4 @@
+repository "Bomber_man_Group3@Bomber_man_Group3@cloud"
+  path "/"
+    br "/main"
+    co "/main"
